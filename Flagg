@@ -1,0 +1,16 @@
+red = rectangle(352, 256, "solid", "red")
+blue1 = rectangle(352, 32, "solid", "darkblue")
+blue2 = rectangle(32, 256, "solid", "darkblue")
+white1 = rectangle(352, 64, "solid", "white")
+white2 = rectangle(64, 256, "solid", "white")
+
+Norge =
+  put-image(blue1, 176, 128,
+    put-image(blue2, 128, 128,
+      put-image(white1, 176, 128,
+        put-image(white2, 128, 128,
+          red))))
+
+Norge
+
+#I første del, så definerer jeg alle delene av flagget. I andre del, så setter jeg sammen verdiene i riktig rekkefølge. Siste del, så skriver jeg "Norge" for å få frem flagget.
