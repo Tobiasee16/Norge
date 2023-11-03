@@ -78,9 +78,4 @@ Finland =
       put-image(white11, 176, 128,
         put-image(white12, 128, 128,
           red6))))
-Sverige
-Finland
-Norge
-Danmark
-Island
-Faroyene
+#To print the flags type Norge, Sverige, Finland, Island, Faroyene or Danmark.
