@@ -1,3 +1,4 @@
+#Ind01
 red = rectangle(352, 256, "solid", "red")
 blue1 = rectangle(352, 32, "solid", "darkblue")
 blue2 = rectangle(32, 256, "solid", "darkblue")
